@@ -1,0 +1,16 @@
+{
+  "sensor_list": [
+	{
+  	    "id": 1,
+  	    "sensor_name": "EC",
+  	    "status":0,
+  	    "data": 1000
+	},
+	{
+  	    "id": 2,
+  	    "sensor_name": "pH",
+  	    "status":0,
+  	    "data": 1000
+	}
+]
+}
