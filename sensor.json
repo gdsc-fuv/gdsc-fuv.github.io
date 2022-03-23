@@ -2,15 +2,33 @@
   "sensor_list": [
 	{
   	    "id": 1,
-  	    "sensor_name": "EC",
-  	    "status":0,
-  	    "data": 1000
+  	    "sensor_name": "TDS",
+  	    "status":1,
+  	    "data": 5.0
 	},
 	{
   	    "id": 2,
   	    "sensor_name": "pH",
-  	    "status":0,
+  	    "status":1,
   	    "data": 1000
+	},
+	{
+		"id":3,
+		"sensor_name":"Light",
+		"status":1,
+		"data":16500
+	},
+	{
+		"id":4,
+		"sensor_name":"Temperature",
+		"status":1,
+		"data":19
+	},
+	{
+		"id":5,
+		"sensor_name":"Humidity",
+		"status":1,
+		"data":53
 	}
 ]
 }

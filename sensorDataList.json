@@ -1,13 +1,18 @@
 {
-    "sensor_name":"name",
+    "sensor_name":"Temperature",
     "duration":10,
     "data":[
         {
             "timeStamp":"2019-02-23 20:02:21.550",
-            "data":"200"
+            "data":19
         },
         {
             "timeStamp":"2019-02-23 20:03:00.000",
-            "data":300,
+            "data":21
+        },
+        {
+            "timeStamp":"2019-02-24 20:02:21.550",
+            "data":20
         }
+    ]
 }

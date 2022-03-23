@@ -1,0 +1,5 @@
+{
+	"v1/getrealtimesensor":"sensor.json",
+	"v1/getrealtimedevice":"device.json",
+	"v1/getdatalist":"sensorDataList.json"
+}
